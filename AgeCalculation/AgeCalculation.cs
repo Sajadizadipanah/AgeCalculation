@@ -16,5 +16,20 @@ namespace AgeCalculation
         {
             InitializeComponent();
         }
+
+        private void AgeCalculation_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.Application.Exit();
+        }
+
+        private void resetButton_Click(object sender, EventArgs e)
+        {
+           
+        }
     }
 }

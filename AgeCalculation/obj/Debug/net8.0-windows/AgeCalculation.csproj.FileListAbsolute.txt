@@ -14,3 +14,4 @@ F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\refint\Age
 F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.pdb
 F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.genruntimeconfig.cache
 F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\ref\AgeCalculation.dll
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.sourcelink.json
