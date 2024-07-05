@@ -1,0 +1,16 @@
+F:\Learning\C#\AgeCalculation\AgeCalculation\bin\Debug\net8.0-windows\AgeCalculation.exe
+F:\Learning\C#\AgeCalculation\AgeCalculation\bin\Debug\net8.0-windows\AgeCalculation.deps.json
+F:\Learning\C#\AgeCalculation\AgeCalculation\bin\Debug\net8.0-windows\AgeCalculation.runtimeconfig.json
+F:\Learning\C#\AgeCalculation\AgeCalculation\bin\Debug\net8.0-windows\AgeCalculation.dll
+F:\Learning\C#\AgeCalculation\AgeCalculation\bin\Debug\net8.0-windows\AgeCalculation.pdb
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.AgeCalculation.resources
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.csproj.GenerateResource.cache
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.AssemblyInfoInputs.cache
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.AssemblyInfo.cs
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.csproj.CoreCompileInputs.cache
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.dll
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\refint\AgeCalculation.dll
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.pdb
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\AgeCalculation.genruntimeconfig.cache
+F:\Learning\C#\AgeCalculation\AgeCalculation\obj\Debug\net8.0-windows\ref\AgeCalculation.dll
