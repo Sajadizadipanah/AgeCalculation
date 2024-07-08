@@ -5,6 +5,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{37F22030-E55F-4E80-A128-A8326A65B068}|AgeCalculation\\AgeCalculation.csproj|f:\\learning\\c#\\agecalculation\\agecalculation\\agecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{37F22030-E55F-4E80-A128-A8326A65B068}|AgeCalculation\\AgeCalculation.csproj|solutionrelative:agecalculation\\agecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F22030-E55F-4E80-A128-A8326A65B068}|AgeCalculation\\AgeCalculation.csproj|f:\\learning\\c#\\agecalculation\\agecalculation\\agecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F22030-E55F-4E80-A128-A8326A65B068}|AgeCalculation\\AgeCalculation.csproj|solutionrelative:agecalculation\\agecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F22030-E55F-4E80-A128-A8326A65B068}|AgeCalculation\\AgeCalculation.csproj|f:\\learning\\c#\\agecalculation\\agecalculation\\agecalculation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F22030-E55F-4E80-A128-A8326A65B068}|AgeCalculation\\AgeCalculation.csproj|solutionrelative:agecalculation\\agecalculation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +25,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAAsSAAAAAAAAAAAnwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-08T10:49:36.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgeCalculation.Designer.cs",
+              "DocumentMoniker": "F:\\Learning\\C#\\AgeCalculation\\AgeCalculation\\AgeCalculation.Designer.cs",
+              "RelativeDocumentMoniker": "AgeCalculation\\AgeCalculation.Designer.cs",
+              "ToolTip": "F:\\Learning\\C#\\AgeCalculation\\AgeCalculation\\AgeCalculation.Designer.cs",
+              "RelativeToolTip": "AgeCalculation\\AgeCalculation.Designer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:56:20.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgeCalculation.cs",
+              "DocumentMoniker": "F:\\Learning\\C#\\AgeCalculation\\AgeCalculation\\AgeCalculation.cs",
+              "RelativeDocumentMoniker": "AgeCalculation\\AgeCalculation.cs",
+              "ToolTip": "F:\\Learning\\C#\\AgeCalculation\\AgeCalculation\\AgeCalculation.cs",
+              "RelativeToolTip": "AgeCalculation\\AgeCalculation.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:51:07.023Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

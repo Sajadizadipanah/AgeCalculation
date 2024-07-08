@@ -46,7 +46,6 @@
             resetButton.TabIndex = 6;
             resetButton.Text = "ریست فرم";
             resetButton.UseVisualStyleBackColor = true;
-            resetButton.Click += resetButton_Click;
             // 
             // calculationButton
             // 
@@ -56,6 +55,7 @@
             calculationButton.TabIndex = 5;
             calculationButton.Text = "محاسبه سن";
             calculationButton.UseVisualStyleBackColor = true;
+            calculationButton.Click += calculationButton_Click;
             // 
             // LableBirth
             // 
@@ -63,7 +63,7 @@
             LableBirth.Location = new Point(112, 44);
             LableBirth.Name = "LableBirth";
             LableBirth.Size = new Size(136, 15);
-            LableBirth.TabIndex = 2;
+            LableBirth.TabIndex = 1;
             LableBirth.Text = "سال تولد خود را وارد نمایید";
             // 
             // birthTextBox
@@ -73,14 +73,15 @@
             birthTextBox.Name = "birthTextBox";
             birthTextBox.PlaceholderText = "1375";
             birthTextBox.Size = new Size(75, 23);
-            birthTextBox.TabIndex = 1;
+            birthTextBox.TabIndex = 0;
+            birthTextBox.WordWrap = false;
             // 
             // dateTimePicker1
             // 
             dateTimePicker1.Location = new Point(12, 12);
             dateTimePicker1.Name = "dateTimePicker1";
             dateTimePicker1.Size = new Size(236, 23);
-            dateTimePicker1.TabIndex = 0;
+            dateTimePicker1.TabIndex = 2;
             dateTimePicker1.Value = new DateTime(2024, 7, 6, 0, 0, 0, 0);
             // 
             // ageTextBox
@@ -128,6 +129,7 @@
             MaximumSize = new Size(260, 170);
             MinimumSize = new Size(260, 170);
             Name = "AgeCalculation";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "AgeCalculation";
             Load += AgeCalculation_Load;
             ResumeLayout(false);
