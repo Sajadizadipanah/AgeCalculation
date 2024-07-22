@@ -46,6 +46,7 @@
             resetButton.TabIndex = 6;
             resetButton.Text = "ریست فرم";
             resetButton.UseVisualStyleBackColor = true;
+    
             // 
             // calculationButton
             // 
